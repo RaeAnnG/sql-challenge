@@ -49,7 +49,7 @@ List the frequency counts, in descending order, of all the employee last names (
 Resources
 -
 I received help from the following people
--
+
 Instructor - Rufel Estrada
 TA - Manuel Eduardo Sotelo Cervantes
 Tutor - Simon Rennocks
